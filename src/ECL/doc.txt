@@ -1,0 +1,6 @@
+o padrão de projeto pede para que as classes estejam
+dentro de uma pasta chamada source abreviada src
+
+depois um vendor name = nome unico no meu caso ECL
+
+depois uma separação por Tipo exemplo Conta, Produto, etc

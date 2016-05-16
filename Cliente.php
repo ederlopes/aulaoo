@@ -12,5 +12,5 @@ class Cliente
     public $idade;
     public $cpf;
     public $jonatas;
-
+    public $eder;
 }
